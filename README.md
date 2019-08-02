@@ -1,1 +1,1 @@
-copyright Simão Rossy - 2019
+Copyright - Simão Rossy - 2019
